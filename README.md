@@ -39,6 +39,8 @@ Entendemos como utilizar outras formas de criação e gerenciamento de máquinas
   - **Ponto de atenção:**   
     Ao excluir a VM, confirmar se também excluiu discos, IPs e serviços associados. Esses recursos podem gerar cobrança.
 
+---
+
 ## Recursos Avançados
 
 ### Conjunto de Dimensionamento de VMs (VM Scale Set)
